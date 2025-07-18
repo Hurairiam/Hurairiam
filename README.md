@@ -19,6 +19,10 @@
 
 ###
 
+<img align="right" height="220" src="https://media1.tenor.com/m/dIWPRDexMxUAAAAd/gintama-gintoki.gifdAAAAABAw"  />
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
@@ -38,18 +42,16 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="220" src="https://media1.tenor.com/m/dIWPRDexMxUAAAAd/gintama-gintoki.gifdAAAAABAw"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">A coding samurai wielding logic and creativity to slash through bugs and build flawless software!!</h3>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hurairiam/Hurairiam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hurairiam/Hurairiam/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
