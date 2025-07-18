@@ -26,10 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <!-- Microsoft PowerPoint Icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_PowerPoint_%282018–present%29.svg" height="40" alt="ms powerpoint" title="MS PowerPoint" />
+  <img src="https://mailmeteor.com/logos/assets/PNG/Microsoft_Office_PowerPoint_Logo_512px.png" height="40" alt="ms powerpoint" title="MS PowerPoint" />
   <img width="12" />
   <!-- Mod Organizer 2 Icon -->
-  <img src="https://www.nexusmods.com/skyrimspecialedition/images/38490" height="40" alt="Mod Organizer 2" title="Mod Organizer 2" />
+  <img src="https://staticdelivery.nexusmods.com/mods/1704/images/64844/64844-1685660261-1698489989.png" height="40" alt="Mod Organizer 2" title="Mod Organizer 2" />
 </div>
 
 ###
