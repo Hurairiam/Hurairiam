@@ -42,6 +42,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">A coding samurai wielding logic and creativity to slash through bugs and build flawless software!!</h3>
 
 ###
