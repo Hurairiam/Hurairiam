@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, this is Huraira 🐱‍👤</h1>
+<h1 align="center">Hello there, this is Huraira </h1>
 
 ###
 
