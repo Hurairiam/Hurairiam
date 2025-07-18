@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">A coding samurai wielding logic and creativity to slash through bugs and build flawless software!!</h5>
+<h5 align="center">A coding samurai, wielding logic and creativity to slash through bugs and build flawless software!!</h5>
 
 ###
 
