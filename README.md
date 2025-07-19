@@ -8,7 +8,8 @@
 
 <br clear="both">
 
-<img align="right" height="255" src="https://media1.tenor.com/m/dIWPRDexMxUAAAAd/gintama-gintoki.gifdAAAAABAw"  />
+<img align="right" height="255" src="https://github.com/Hurairiam/Hurairiam/blob/main/assets/README/gintama.gif?raw=true" alt="Gintoki GIF" />
+
 
 ###
 
