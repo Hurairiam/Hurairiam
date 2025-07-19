@@ -65,5 +65,6 @@
 
 ## 🏆 Certifications & Achievements
 
-- 🎯 Completed: [CoderHunt 3.0 Bootcamp by Shohoj Coding](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp) — [📜](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp/blob/main/CoderHunt-3.0-Certificate.pdf)
+- Completed: [CoderHunt 3.0 Bootcamp by Shohoj Coding](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp) — [Certificate](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp/blob/main/CoderHunt-3.0-Certificate.pdf)
+
 
