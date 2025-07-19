@@ -61,4 +61,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hurairiam&radius=0&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎯 Completed: [CoderHunt 3.0 Bootcamp by Shohoj Coding](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp) — [📜](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp/blob/main/CoderHunt-3.0-Certificate.pdf)
+
