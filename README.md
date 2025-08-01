@@ -59,8 +59,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hurairiam&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hurairiam&show_icons=true&theme=radical" height="150" alt="GitHub stats"  />
+  
   <img src="https://streak-stats.demolab.com?user=Hurairiam&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hurairiam&radius=0&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
