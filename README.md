@@ -10,7 +10,6 @@
 
 <img align="right" height="255" src="https://github.com/Hurairiam/Hurairiam/blob/main/assets/README/gintama.gif?raw=true" alt="Gintoki GIF" />
 
-
 ###
 
 <p align="left">📚 Currently Learning: C and C++<br>🎲 Domains: Biology, Philosophy, Religion and Fiction<br>📫 Contact: hurairiam@gmail.com</p>
@@ -40,11 +39,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/hurairiam.405" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/hurairiam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/hurairiamX" target="_blank" style="display:inline-block; padding-right:8px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
+  <a href="https://www.facebook.com/hurairiam.405" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/hurairiamX" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
@@ -67,5 +69,3 @@
 ## 🏆 Certifications & Achievements
 
 - Completed: [CoderHunt 3.0 Bootcamp by Shohoj Coding](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp) — [Certificate](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp/blob/main/CoderHunt-3.0-Certificate.pdf)
-
-
