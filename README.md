@@ -71,3 +71,5 @@
 ## 🏆 Certifications & Achievements
 
 - Completed: [CoderHunt 3.0 Bootcamp by Shohoj Coding](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp) — [Certificate](https://github.com/Hurairiam/CoderHunt-3.0-Bootcamp/blob/main/CoderHunt-3.0-Certificate.pdf)
+- Completed: [Crafting Precision Prompts with Generative AI by IBM](https://github.com/Hurairiam/certifications/blob/main/Crafting%20Precision%20Prompts%20with%20Generative%20AI%20by%20IBM/README.md) — [Certificate](https://github.com/Hurairiam/certifications/blob/main/Crafting%20Precision%20Prompts%20with%20Generative%20AI%20by%20IBM/Crafting%20Precision%20Prompts%20Certificate.pdf)
+
