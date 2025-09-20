@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Currently Learning: C and C++<br>🎲 Domains: Biology, Philosophy, Religion and Fiction<br>📫 Contact: hurairiam@gmail.com</p>
+<p align="left">📚 Currently Learning: C, C++, AI & Data Science<br>🎲 Domains: Biology, Philosophy, Religion and Fiction<br>📫 Contact: hurairiam@gmail.com</p>
 
 ###
 
