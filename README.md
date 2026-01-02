@@ -75,14 +75,6 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hurairiam&radius=0&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true&hide_title=true"
-    height="300"
-    alt="Contribution Graph"
-  />
-</div>
-
 ---
 
 ## 🏆 Certifications & Achievements
