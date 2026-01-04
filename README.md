@@ -79,6 +79,7 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 
 ## 🏆 Certifications & Achievements
 
+- Completed: [Fortinet Certified Fundamentals in Cybersecurity](https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/readme.md) — [Certificate](https://github.com/Hurairiam/certifications/blob/main/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity/Fortinet%20Certified%20Fundamentals%20in%20Cybersecurity.pdf)
 - Completed: [Explore Emerging Tech by IBM](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/README.md) — [Certificate](https://github.com/Hurairiam/certifications/blob/main/Explore%20Emerging%20Tech%20by%20IBM/Explore%20Emerging%20Tech%20Certificate.pdf)
 - Completed: [Artificial Intelligence Fundamentals by IBM](https://github.com/Hurairiam/certifications/blob/main/Artificial%20Intelligence%20Fundamentals%20by%20IBM/README.md) — [Certificate](https://github.com/Hurairiam/certifications/blob/main/Artificial%20Intelligence%20Fundamentals%20by%20IBM/Artificial%20Intelligence%20Fundamentals%20Certificate.pdf)
 - Completed: [AI Literacy by IBM](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/README.md) — [Certificate](https://github.com/Hurairiam/certifications/blob/main/AI%20Literacy%20by%20IBM/Ai%20Literact%20Certificate.pdf)
