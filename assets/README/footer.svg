@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" preserveAspectRatio="xMidYMid slice" role="img" aria-label="">
+<defs>
+  <linearGradient id="fs" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#09090d"/><stop offset="1" stop-color="#25100f"/></linearGradient>
+  <linearGradient id="fsun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e23a30"/><stop offset="1" stop-color="#8f1220"/></linearGradient>
+  <linearGradient id="fe" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d4af37" stop-opacity="0"/><stop offset=".5" stop-color="#d4af37"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1000" height="120" fill="url(#fs)"/>
+<rect y="0" width="1000" height="1.5" fill="url(#fe)"/>
+<circle cx="500" cy="104" r="58" fill="url(#fsun)"/>
+<path d="M0 96 L100 70 L190 92 L300 56 L410 94 L500 78 L590 96 L700 62 L810 94 L900 72 L1000 92 L1000 120 L0 120 Z" fill="#14111a"/>
+<path d="M0 112 L130 92 L260 110 L390 88 L500 112 L620 90 L750 110 L880 94 L1000 108 L1000 120 L0 120 Z" fill="#0b0a0e"/>
+</svg>
