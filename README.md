@@ -63,10 +63,7 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 |---|---|---|
 | [**Compile & Conquer**](https://github.com/Hurairiam/cse-life-compile-and-conquer) | A life-simulation RPG about surviving CSE. I led the team and owned the core OOP architecture across 5 Agile sprints, with persistent save/load, a custom UI and an in-house level editor. | `Python` `Pygame` `JSON` `Git` |
 | [**SemesterView**](https://github.com/Hurairiam/SemesterView) | A unified academic assistant for ULAB students: schedules, exams, room availability, faculty info and research opportunities. Built with a 3-person team inside a 3-hour hackathon window. | `TypeScript` `Replit Agent` `Prompt Engineering` |
-| **PATHFINDER** | A guided graph pathfinding application featuring BFS and Dijkstra's algorithm with ASCII visualization. | `BFS` `Dijkstra` `Graphs` |
-| **Library Management System** | A Java library management system inspired by the Lund University interface. | `Java` `HashMaps` `File Persistence` |
-| **Tech Fest Resource Allocation** | Compares 0/1 Knapsack (dynamic programming) against greedy strategies and Activity Selection in one unified C program. | `C` `Dynamic Programming` `Greedy` |
-| **Flood Risk Analytics** | A Statistics and Probability team project analysing flood risk with a Python script, documented in an IEEE-format report. | `Python` `Statistics` |
+| [**Flood Risk Analytics**](https://github.com/Hurairiam/flood-risk-analytics) | Statistical and probabilistic analysis of river water-level data from 127 flood-monitoring stations across Bangladesh, built on real FFWC/BWDB bulletins. | `Python` `Statistics` `Probability` |
 
 <br>
 
@@ -111,11 +108,14 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-achievements.svg" alt="Achievements" width="520" />
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-hackathons.svg" alt="Hackathons" width="520" />
 </p>
 
-- **Hackathons**: 1st Place, UCPC Hackathon Club Week Challenge (2026) · Top 9 Finalist, ULAB CSE Fest (2025)
-- **Olympiad**: Regional Medalist, Bangladesh Biology Olympiad (BDBO), multiple times since 2019
+| Hackathon | What we built | Repo |
+|---|---|---|
+| **ULAB UCPC Hackathon, Club Week Challenge 2026**<br>1st Place · 15 Aug 2026 | **SemesterView**: a unified academic assistant for ULAB students (personal timetable, free-room finder, exams, faculty and research matching), built in a 3-hour sprint with team *The Special One*. | [SemesterView](https://github.com/Hurairiam/SemesterView) |
+| **BUP CSE Fest 2026, GridWise Track**<br>Prelims | **Cogitator-Optimus**: a FastAPI backend that turns plain-English operator notes into a minimum-cost 24-hour campus energy schedule, using an LLM to read the notes, Pydantic to validate them and PuLP linear programming to solve the plan. | [BUP_hackathon_prelims](https://github.com/Hurairiam/BUP_hackathon_prelims) |
+| **ULAB CSE Fest 2025 Hackathon**<br>Top 9 Finalist · 24 Jul 2025 | **Sync4U**: a campus connectivity app prototype (schedule matching, vacant-room finder, clubs, chat) built with Lovable and ChatGPT by team *Bamboo Warriors*. Our first hackathon. | [Our-First-Hackathon](https://github.com/Hurairiam/Our-First-Hackathon) |
 
 <br>
 
@@ -176,12 +176,13 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
   <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-socials.svg" alt="Socials" width="520" />
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/hurairiaml" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       height="45"
       alt="LinkedIn"
+      title="LinkedIn"
     />
   </a>
   <img width="14" />
@@ -190,15 +191,22 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
       height="45"
       alt="Twitter"
+      title="Twitter"
     />
   </a>
+  <img width="14" />
+  <a href="https://www.credly.com/users/abu-huraira.47e26801/badges/credly" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/icon-credly.svg" height="45" alt="Credly" title="Credly" />
+  </a>
+  <img width="14" />
+  <a href="mailto:hurairiam@gmail.com">
+    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/icon-email.svg" height="45" alt="Email" title="Email" />
+  </a>
+  <img width="14" />
+  <a href="https://hurairiam.github.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/icon-portfolio.svg" height="45" alt="Portfolio" title="Portfolio" />
+  </a>
 </div>
-
-<p align="left">
-<a href="https://www.credly.com/users/abu-huraira.47e26801/badges/credly">Credly</a> &nbsp;|&nbsp;
-<a href="https://hurairiam.github.io">Portfolio</a> &nbsp;|&nbsp;
-<a href="mailto:hurairiam@gmail.com">Email</a>
-</p>
 
 <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
 
