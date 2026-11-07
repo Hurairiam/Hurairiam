@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<rect width="128" height="128" rx="22" fill="#B8962E"/>
+<g transform="translate(24 24) scale(3.33)" fill="none" stroke="#fff" stroke-width="1.5" stroke-linecap="round">
+  <circle cx="12" cy="12" r="9"/>
+  <ellipse cx="12" cy="12" rx="4" ry="9"/>
+  <line x1="3" y1="12" x2="21" y2="12"/>
+  <path d="M4.2 7.2 Q12 9.6 19.8 7.2"/>
+  <path d="M4.2 16.8 Q12 14.4 19.8 16.8"/>
+</g>
+</svg>
