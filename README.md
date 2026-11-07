@@ -51,7 +51,6 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
   <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commit" width="48%" />
 </p>
 
-<sub>Updated automatically every day from my GitHub activity.</sub>
 
 <br>
 
