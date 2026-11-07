@@ -71,7 +71,7 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
   <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-tools.svg" alt="Language and Tools" width="520" />
 </p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -196,15 +196,15 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
   </a>
   <img width="14" />
   <a href="https://www.credly.com/users/abu-huraira.47e26801/badges/credly" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/icon-credly.svg" height="45" alt="Credly" title="Credly" />
+    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/social-credly.svg" height="45" alt="Credly" title="Credly" />
   </a>
   <img width="14" />
   <a href="mailto:hurairiam@gmail.com">
-    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/icon-email.svg" height="45" alt="Email" title="Email" />
+    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/social-email.svg" height="45" alt="Email" title="Email" />
   </a>
   <img width="14" />
   <a href="https://hurairiam.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/icon-portfolio.svg" height="45" alt="Portfolio" title="Portfolio" />
+    <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/social-portfolio.svg" height="45" alt="Portfolio" title="Portfolio" />
   </a>
 </div>
 
