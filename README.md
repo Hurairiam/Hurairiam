@@ -40,9 +40,11 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
+<br>
 
-<h3 align="center">Languages I Use</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-languages.svg" alt="Languages I Use" width="520" />
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" width="48%" />
@@ -51,9 +53,11 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 
 <sub>Updated automatically every day from my GitHub activity.</sub>
 
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
+<br>
 
-<h3 align="center">Featured Projects</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-projects.svg" alt="Featured Projects" width="520" />
+</p>
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -64,9 +68,11 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 | **Tech Fest Resource Allocation** | Compares 0/1 Knapsack (dynamic programming) against greedy strategies and Activity Selection in one unified C program. | `C` `Dynamic Programming` `Greedy` |
 | **Flood Risk Analytics** | A Statistics and Probability team project analysing flood risk with a Python script, documented in an IEEE-format report. | `Python` `Statistics` |
 
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
+<br>
 
-<h3 align="center">Language and Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-tools.svg" alt="Language and Tools" width="520" />
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -102,16 +108,20 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 | **Governance & Compliance** | AI Governance, Privacy Management, ISO/IEC 42001, ISO/IEC 27701 |
 | **AI Productivity Tools** | Claude, NotebookLM, Google AI Studio, Replit Agent |
 
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
+<br>
 
-<h3 align="center">Achievements</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-achievements.svg" alt="Achievements" width="520" />
+</p>
 
 - **Hackathons**: 1st Place, UCPC Hackathon Club Week Challenge (2026) · Top 9 Finalist, ULAB CSE Fest (2025)
 - **Olympiad**: Regional Medalist, Bangladesh Biology Olympiad (BDBO), multiple times since 2019
 
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
+<br>
 
-<h3 align="center">Certifications</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-certifications.svg" alt="Certifications" width="520" />
+</p>
 
 <details>
 <summary><b>Governance &amp; Compliance (2026)</b> &nbsp;⬇️</summary>
@@ -160,9 +170,11 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
+<br>
 
-<h3 align="center">Socials</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/title-socials.svg" alt="Socials" width="520" />
+</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hurairiaml" target="_blank">
@@ -187,6 +199,8 @@ A coding samurai, wielding logic and creativity to slash through bugs and build 
 <a href="https://hurairiam.github.io">Portfolio</a> &nbsp;|&nbsp;
 <a href="mailto:hurairiam@gmail.com">Email</a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Hurairiam/Hurairiam/main/assets/README/divider.svg" alt="" width="100%" />
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hurairiam.Hurairiam" />
